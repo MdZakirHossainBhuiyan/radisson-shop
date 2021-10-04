@@ -1,0 +1,181 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.product-area{
+    z-index: 1;
+}
+
+.bookmarkImage{
+    margin-top: 70px;
+    margin-left: 265px;
+}
+
+.product-image{
+    height: 226px;
+    width: 233px;
+    margin-top: 25px;
+    margin-left: 45px;
+}
+
+.product-image-style{
+    height: 226px;
+    width: 233px;
+}
+
+.product-samples{
+    width: 295px;
+    height: 60px;
+    margin-top: 20px;
+    margin-left: 25px;
+    display: flex;
+}
+
+.product-samples img{
+    height: 50px;
+    width: 50px;
+    padding: 4px 8px;
+}
+
+#sample-one{
+    height: 60px;
+    width: 55px;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    opacity: 1;
+    box-shadow: 5px 5px 10px #E9F2FE;
+}
+
+.product-area h2{
+    font-family: Playfair Display;
+    font-size: 26;
+    color: #000000;
+    opacity: 1;
+    margin-left: 25px;
+    margin-top: 25px;
+}
+
+.product-price{
+    margin-left: 25px;
+    margin-top: 15px;
+    color: #005DFF;
+    font-size: 24px;
+    font-family: LeagueSpartan-Medium;
+    opacity: 1;
+}
+
+.product-info{
+    width: 295px;
+    height: 70px;
+    margin-top: 20px;
+    margin-left: 25px;
+    display: flex;
+}
+
+.product-color{
+    width: 65%;
+}
+
+.product-info h4{
+    font-size: 20px;
+    font-family: LeagueSpartan-Medium;
+    color: #000000;
+    opacity: 1;
+}
+
+.color-btn{
+    display: flex;
+}
+
+.color-btn button{
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    margin: 10px;
+    border: none;
+}
+
+.mark-btn{
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+    border: 1px solid black;
+    margin: 8px;
+}
+
+.mark-btn .blue-btn{
+    background-color: #005DFF;
+    margin: 3px;
+}
+
+.red-btn{
+    background-color: red;
+}
+
+.yellow-btn{
+    background-color: yellow;
+}
+
+.green-btn{
+    background-color: green;
+}
+
+.product-quantity{
+    width: 35%;
+}
+
+.quantity-info{
+    display: flex;
+}
+
+.quantity-info button{
+    width: 25px;
+    height: 25px;
+    margin: 10px 2px;
+    border: none;
+    border-radius: 10px;
+}
+
+.quantity-info input{
+    width: 25px;
+    height: 20px;
+    margin: 10px 0px;
+    border: none;
+    text-align: justify;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.product-detail{
+    font-size: 10px;
+    width: 295px;
+    font-family: LeagueSpartan-Light;
+    color: #000000;
+    margin-right: 20px;
+    margin-left: 25px;
+}
+
+.add-btn{
+    display: flex;
+    width: 320px;
+    height: 52px;
+    background-color: #005DFF;
+    border: none;
+    border-radius: 50px 50px 0px 0px;
+    margin-top: 10px;
+}
+
+.add-btn img{
+    padding: 15px 0px 15px 80px;
+}
+
+.add-btn p{
+    color: white;
+    text-align: left;
+    font-size: 18px;
+    letter-spacing: 3px;
+    margin-top: 15px;
+    margin-left: 5px;
+    text-decoration: none;
+}

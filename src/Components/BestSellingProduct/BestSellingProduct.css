@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.sell-content{
+    margin: 30px;
+    padding-left: 15px;
+    width: 260px;
+    font-size: 18px;
+    font-family: LeagueSpartan-Medium;
+    color: #000000;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.product-card{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+.card-content{
+    margin-top: 20px;
+    background-color: #FEFEFE;
+    width: 120px;
+    height: 252px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 20px #E9F2FE;
+}
+
+.card-content img{
+    width: 85px;
+    height: 108px;
+    padding: 15px 15px;
+}
+
+.card-content h3{
+    padding-top: 20px;
+    padding-left: 5px;
+    color: #000000;
+    font-size: 14px;
+    font-family: Playfair Display;
+}
+
+.price{
+    padding-top: 10px;
+    padding-left: 5px;
+    color: blue;
+    font-size: 18px;
+}
+
+.description{
+    padding-top: 5px;
+    padding-left: 5px;
+    color: #000000;
+    font-size: 10px;
+    font-family: LeagueSpartan-Medium;
+    opacity: 0.4;
+}
+
+.bookmark{
+    width: 34px;
+    height: 34px;
+    background-color: #005DFF;
+    border-radius: 5px;
+    align-items: end;
+    margin-left: 90px;
+}
+
+.bookmark img{
+    width: 14px;
+    height: 14px;
+    padding: 10px;
+}
+

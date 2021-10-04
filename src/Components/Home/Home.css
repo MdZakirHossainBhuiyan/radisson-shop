@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.top-content{
+    display: flex;
+    position: relative;
+}
+
+.search-field img{
+    width: 30px;
+    height: 30px;
+    margin-top: 70px;
+    margin-left: 235px;
+}
+
+.profile{
+    width: 36px;
+    height: 37px;
+    margin-top: 65px;
+    margin-left: 10px;
+    border-radius: 50%;
+    background-color: #E6EEFE;
+    opacity: 1;
+}
+
+.profile img{
+    width: 26px;
+    height: 27px;
+    padding: 5px;
+    border-radius: 50%;
+}

@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-content{
+    width: 109px;
+    height: 896px;
+    background-color: #E9F2FE;
+    position: fixed;
+    z-index: -1;
+}
+
+.navbar-content img{
+    margin-top: 71px;
+    margin-left: 35%;
+}

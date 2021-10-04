@@ -1,0 +1,124 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.cart-content{
+    background-color: white;
+    margin-top: 70px;
+}
+
+.cart-navbar{
+    display: flex;
+    margin-left: 35px;
+    margin-bottom: 20px;
+}
+
+.cart-content h3{
+    font-size: 18px;
+    font-family: LeagueSpartan-Medium;
+    color: #000000;
+    margin-left: 85px;
+}
+
+.three-dot{
+    margin-left: 85px;
+}
+
+.cart-product{
+    display: flex;
+    margin: 10px 20px;
+    width: 290px;
+    height: 110px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px #c0d8f8;
+}
+
+.cart-product-img{
+    width: 90px;
+}
+
+.cart-product-img img{
+    width: 70px;
+    height: 75px;
+    padding: 17px 10px;
+}
+
+.cart-product-details{
+    width: 130px;
+}
+
+.cart-product-details h4{
+    padding-top: 5px;
+    font-family: LeagueSpartan-Medium;
+    color: #000000;
+    font-size: 14px;
+}
+
+.cart-product-details p{
+    padding-top: 5px;
+    opacity: 0.3;
+    font-family: LeagueSpartan-Medium;
+    color: #000000;
+    font-size: 14px;
+}
+
+.cart-product-price{
+    width: 70px;
+}
+
+.cart-product-price p{
+    color: blue;
+    padding-top: 5px;
+    padding-left: 5px;
+}
+
+button{
+    display: flex;
+    width: 90px;
+    margin-top: 5px;
+    border: none;
+    background-color: none;
+}
+
+span{
+    color: blue;
+    padding: 5px 5px;
+    font-weight: bold;
+}
+
+.buy-product{
+    margin-top: 50px;
+    width: 320px;
+    height: 80px;
+    background-color: #E9F2FE;
+    display: flex;
+}
+
+.total-price{
+    width: 190px;
+    padding-left: 25px;
+    padding-top: 10px;
+}
+
+.total-price p{
+    font-family: LeagueSpartan-Medium;
+    color: #000000;
+}
+
+.total-price h1{
+    font-family: LeagueSpartan-Regular;
+    color: #005DFF;
+}
+
+.bue-btn button{
+    margin-top: 25px;
+    width: 85px;
+    height: 30px;
+    background-color: #005DFF;
+    color: white;
+    letter-spacing: 2px;
+    border-radius: 10px;
+    padding: 7px 7px;
+}
+
